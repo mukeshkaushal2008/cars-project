@@ -1,0 +1,1 @@
+[15-Jun-2015 11:14:52 America/Chicago] PHP Fatal error:  Cannot redeclare bids::enable_disable_bid() in /home3/koshy/public_html/hautebids.com/demo/application/backend/controllers/bids.php on line 132
